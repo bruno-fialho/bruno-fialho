@@ -4,8 +4,8 @@
 
 ### I'm an Engineer and Developer !!
 
-- 🗺️ I’m currently looking for oportunities to work as Backend Developer, preference with Node.js.
-- 🌱 Learning AWS, JAVA, Clean Code, and much more..
+- 🗺️ I’m currently working as Full Stack Developer: Next.js and Node.js!
+- 🌱 Learning AWS, Clean Architecture, Chakra UI and much more..
 
 <br />
 
