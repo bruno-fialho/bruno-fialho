@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently working as Mobile Developer with React Native!
 - 🔥 I also have experience as Frontend Developer with Next.js + Typescript!
-<!-- - 🌱 Learning Clean Architecture, Chakra UI and much more.. -->
+- 📖 Reading and solving [CLRS](http://tinyurl.com/54268vdz)
 
 <br />
 
