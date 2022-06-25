@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently working as Mobile Developer with React Native!
 - 🔥 I also have experience as Frontend Developer with Next.js + Typescript!
-- 📖 Reading and solving [CLRS](http://tinyurl.com/54268vdz)
+- 📖 Reading and solving [CLRS](https://tinyurl.com/3t8z9ee8)
 
 <br />
 
@@ -21,7 +21,7 @@
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/NextJS%20-black.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React-Table](https://img.shields.io/badge/React--Table-FF4154?style=for-the-badge&logo=react-table&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
