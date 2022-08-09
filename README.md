@@ -7,6 +7,7 @@
 - 🚀 I’m currently working as Mobile Developer with React Native!
 - 🔥 I also have experience as Frontend Developer with Next.js + Typescript!
 - 📖 Reading and solving [CLRS](https://tinyurl.com/3t8z9ee8)
+- 📖 Studying web3, solidity..
 
 <br />
 
