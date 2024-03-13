@@ -62,6 +62,6 @@ Looking forward to connecting with like-minded individuals and exploring new pos
 
 ## :octocat: GitHub Stats
 
-![bruno-fialho's github stats](https://github-readme-stats.vercel.app/api?username=bruno-fialho&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+[![Bruno Fialho's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-fialho&show_icons=true&theme=aura)](https://github.com/bruno-fialho/github-readme-stats)
 
 <br />
